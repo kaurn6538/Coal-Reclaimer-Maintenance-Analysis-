@@ -19,6 +19,8 @@ Disclaimer: This is a mock-up dashboard used exclusively for analysis purposes. 
 
 ## Reclaimer Machines:
 
+![Reclaimer](https://github.com/user-attachments/assets/c6656412-4c91-41de-b268-8620c4b5eeea)
+
 ## RL1 - Requires Maintenance
 
 Exceeded the 10% threshold multiple times:
@@ -44,6 +46,8 @@ Observation: The chart shows a plateau on 10th September 2015, indicating sustai
 Further Analysis: Data suggests that RL2’s full-capacity operation might have caused SR6 to sacrifice some of its utilization. This aspect is discussed in SR6’s analysis.
 
 Stacker Reclaimer Machines:
+![Stacker-Reclaimer](https://github.com/user-attachments/assets/7aff9b1c-d5c0-4447-97ce-9e1d847c7e20)
+
 
 ## SRL1 - No Maintenance Required
 
@@ -68,6 +72,8 @@ A surge in the 8-hour moving average idle capacity was observed around 10th Sept
 Possible Cause: Conflict between SR6 and RL2 when operating on the same line in the stockyard.
 
 When both machines reach the middle of the line simultaneously, they struggle to access the stack efficiently.
+
+![Stockyard](https://github.com/user-attachments/assets/354ba3eb-5110-43ef-906d-a4b2d25cd1d6)
 
 RL2 operates at full capacity, forcing SR6 to sacrifice part of its capacity.
 
