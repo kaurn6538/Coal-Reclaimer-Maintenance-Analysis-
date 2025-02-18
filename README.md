@@ -1,4 +1,6 @@
 # Coal Reclaimer Maintenance Analysis - Tableau Project
+![Stacker-Reclaimer](https://github.com/user-attachments/assets/4c458578-e49c-48de-a7a8-ba7c5c314fb8)
+
 ## Project Overview
 
 This project was conducted to assess which of the five coal reclaimer machines at a coal terminal require maintenance in the upcoming month. These machines operate 24/7 throughout the year, and downtime results in significant financial losses. The coal terminal follows a maintenance criterion that states:
