@@ -46,6 +46,7 @@ Observation: The chart shows a plateau on 10th September 2015, indicating sustai
 Further Analysis: Data suggests that RL2’s full-capacity operation might have caused SR6 to sacrifice some of its utilization. This aspect is discussed in SR6’s analysis.
 
 Stacker Reclaimer Machines:
+
 ![Stacker-Reclaimer](https://github.com/user-attachments/assets/7aff9b1c-d5c0-4447-97ce-9e1d847c7e20)
 
 
