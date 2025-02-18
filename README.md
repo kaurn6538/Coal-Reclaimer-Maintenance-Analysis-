@@ -83,7 +83,7 @@ GitHub Repository: Contains Tableau workbook (.twb or .twbx), raw dataset, and R
 
 Clone the Repository:
 
-git clone https://https://github.com/kaurn6538/Coal-Reclaimer-Maintenance-Analysis.git
+git clone https://github.com/kaurn6538/Coal-Reclaimer-Maintenance-Analysis.git
 
 ## Open the Tableau Workbook:
 
