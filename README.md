@@ -69,7 +69,7 @@ When both machines reach the middle of the line simultaneously, they struggle to
 
 RL2 operates at full capacity, forcing SR6 to sacrifice part of its capacity.
 
-## Recommendation: Since SR6 did not exceed the 10% threshold at any other point, maintenance is likely not required. However, further operational adjustments are recommended to mitigate conflicts between RL2 and SR6.
+Recommendation: Since SR6 did not exceed the 10% threshold at any other point, maintenance is likely not required. However, further operational adjustments are recommended to mitigate conflicts between RL2 and SR6.
 
 ## Project Deliverables
 
