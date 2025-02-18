@@ -73,7 +73,7 @@ Recommendation: Since SR6 did not exceed the 10% threshold at any other point, m
 
 ## Project Deliverables
 
-Tableau Dashboard: Interactive visualization showcasing idle capacity trends, machine performance, and maintenance recommendations.
+Tableau Story: Interactive visualization showcasing idle capacity trends, machine performance, and maintenance recommendations.
 
 Data Analysis Report: Documenting the methodology, findings, and recommendations.
 
